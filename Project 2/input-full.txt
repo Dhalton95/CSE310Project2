@@ -1,0 +1,1603 @@
+9
+Classics
+Mystery
+Science Fiction
+Westerns
+Satire
+Romance
+Health
+Travel
+History
+117
+Classics
+The Sun Also Rises
+Ernest Hemingway
+Scribner
+2
+Kindle
+6.99
+40
+Paperback
+12.24
+155
+Classics
+The Brothers Karamazov
+Fyodor Dostoyevsky
+Dover Thrift Edition
+4
+Kindle
+0.00
+100
+Hardcover
+12.99
+200
+Paperback
+4.80
+80
+Audible
+17.95
+5
+Classics
+Animal Farm
+George Orwell
+Signet Classic
+1
+Paperback
+3.54
+200
+Classics
+Mrs Dalloway
+Virginia Woolf
+Centaur Classics
+1
+Kindle
+0.99
+90
+Classics
+Brave New World
+Aldous Huxley
+Harper Collins Publishers
+4
+Kindle
+5.99
+200
+Hardcover
+18.74
+15
+Paperback
+8.81
+120
+Audible
+0.05
+200
+Classics
+Little Women
+Louisa May Alcott
+Black & White Classics
+4
+Kindle
+0.00
+100
+Hardcover
+22.99
+10
+Paperback
+9.99
+200
+Audible
+0.00
+10
+Classics
+On the Road
+Jack Kerouac
+Viking Press
+3
+Kindle
+12.99
+30
+Paperback
+12.68
+100
+Audible
+0.00
+100
+Classics
+The Sound and the Fury
+William Faulkner
+Vintage Books
+2
+Kindle
+11.99
+45
+Paperback
+11.63
+210
+Classics
+Adventures of Huckleberry Finn
+Mark Twain
+Dover Thrift Editions
+4
+Kindle
+0.72
+100
+Hardcover
+0.01
+100
+Paperback
+4.05
+200
+Audible
+0.95
+20
+Classics
+The Lord of the Rings
+J. R. R. Tolkien
+Harper Collins Publishers
+3
+Hardcover
+29.50
+10
+Kindle
+16.99
+30
+Paperback
+11.49
+50
+Classics
+Crime and Punishment
+Fyodor Dostoyevsky
+Dover Thrift Editions
+2
+Paperback
+4.50
+150
+Kindle
+0.99
+40
+Classics
+Lord of the Flies
+William Golding
+The Berkley Publishing Group
+3
+Kindle
+9.99
+40
+Hardcover
+18.12
+20
+Paperback
+8.54
+100
+Classics
+Moby Dick
+Herman Melville
+Wordsworth Classics
+4
+Kindle
+0.00
+40
+Hardcover
+4.32
+60
+Paperback
+3.95
+90
+Audible
+0.95
+100
+Classics
+The Scarlet Letter
+Nathaniel Hawthorne
+Dover Thrift Study Edition
+1
+Paperback
+5.45
+80
+Classics
+Don Quixote
+Miguel De Cervantes
+Penguin Classics
+3
+Kindle
+9.12
+40
+Hardcover
+31.99
+20
+Paperback
+9.60
+55
+Classics
+Wuthering Heights
+Emily Bronte
+Black & White Classics
+3
+Kindle
+0.00
+40
+Hardcover
+17.99
+20
+Paperback
+9.99
+35
+Classics
+Pride and Prejudice
+Jane Austen
+Dover Thrift Editions
+3
+Paperback
+2.90
+150
+Hardcover
+9.48
+10
+Kindle
+0.00
+100
+Classics
+1984
+George Orwell
+Brantley Press
+3
+Hardcover
+96.00
+5
+Paperback
+12.73
+100
+Audible
+0.00
+100
+Classics
+The Catcher in the Rye
+J.D. Salinger
+Little, Brown, and Company
+1
+Paperback
+8.64
+50
+Classics
+Great Expectations
+Charles Dickens
+Shine Classics
+4
+Kindle
+0.05
+100
+Hardcover
+22.99
+25
+Paperback
+9.99
+1000
+Audible
+2.95
+10
+Classics
+To Kill a Mockingbird
+Harper Lee
+Grand Central Publishing
+2
+Kindle
+9.99
+30
+Paperback
+5.44
+100
+Health
+The Slight Edge
+Jeff Olson
+Greenleaf Book Group Press
+3
+Kindle
+7.39
+100
+Hardcover
+16.83
+42
+Paperback
+9.47
+34
+Health
+Pain Free, A Revolutionary Method for Stopping Chronic Pain
+Pete Egoscue
+Bantam Books
+3
+Kindle
+12.99
+8
+Hardcover
+8.66
+46
+Paperback
+10.36
+317
+Health
+Fiber Menace
+Konstantin Monastyrsky
+Ageless Press
+2
+Kindle
+9.95
+3
+Paperback
+18.82
+24
+Health
+The Effortless Sleep Method
+Sasha Stephens
+Sasha Stephens
+3
+Kindle
+3.99
+6
+Paperback
+12.37
+15
+Audible
+0.00
+100
+Health
+The Happiness Advantage
+Shawn Achor
+Crown Business
+4
+Kindle
+10.99
+16
+Hardcover
+17.00
+197
+Paperback
+12.02
+27
+Audible
+0.00
+100
+Health
+The Omnivores Dilemma: A Natural History of Four Meals
+Michael Pollan
+Penguin Press
+3
+Kindle
+13.99
+42
+Hardcover
+18.08
+327
+Paperback
+10.46
+656
+Health
+The Blood Sugar Solution
+Mark Hyman
+Little, Brown and Company
+3
+Kindle
+11.99
+15
+Hardcover
+15.99
+315
+Paperback
+12.68
+54
+Health
+The Power of Habit
+Charles Duhigg
+Random House
+3
+Kindle
+11.99
+17
+Hardcover
+13.73
+197
+Paperback
+9.37
+137
+Health
+Mindfulness in Plain English
+Bhante Henepola Gunaratana
+Wisdom Publications
+2
+Kindle
+12.35
+5
+Paperback
+9.57
+49
+Health
+The Hormone Cure
+Sara Gottfried
+Scribner
+3
+Kindle
+12.99
+17
+Hardcover
+4.50
+56
+Paperback
+13.80
+48
+Health
+The End of Overeating
+David A. Kessler
+Rodale Inc.
+4
+Kindle
+7.99
+15
+Hardcover
+25.95
+353
+Paperback
+13.73
+249
+Audible
+0.00
+100
+Health
+Spontaneous Healing
+Andrew Weil
+A Ballantine Book
+3
+Kindle
+7.99
+19
+Hardcover
+2.95
+49
+Paperback
+12.52
+582
+History
+A People’s History of the United States
+Howard Zinn
+Harper Perennial
+2
+Kindle
+14.99
+156
+Paperback
+13.59
+144
+History
+Guns, Germs, and Steel
+Jared Diamond
+W. W. Norton & Company
+4
+Kindle
+10.72
+100
+Hardcover
+18.28
+28
+Paperback
+5.58
+50
+Audible
+26.95
+10
+History
+Homage to Catalonia
+George Orwell
+Will Jonson & Dog’s Tail Books
+3
+Kindle
+9.99
+6
+Hardcover
+43.72
+7
+Paperback
+6.99
+8
+History
+The Guns of August
+Barbara W. Tuchman
+A Presidio Press Book
+3
+Kindle
+7.99
+77
+Hardcover
+18.17
+34
+Paperback
+15.28
+199
+History
+Battle Cry of Freedom
+James M. McPherson
+Oxford University Press
+3
+Kindle
+9.88
+22
+Hardcover
+21.00
+49
+Paperback
+10.80
+88
+History
+The Diary of a Young Girl
+Anne Frank
+Bantam Books
+2
+Kindle
+6.99
+172
+Paperback
+8.50
+27
+History
+1776
+David McCullough
+Simon & Schuster
+4
+Kindle
+13.99
+64
+Hardcover
+6.43
+230
+Paperback
+8.95
+138
+Audible
+29.95
+122
+History
+The History of the Peloponnesian War
+Thucydides
+Penguin Classics
+2
+Kindle
+0.99
+5
+Paperback
+13.70
+275
+History
+Orientalism
+Edward Said
+Vintage Books
+3
+Kindle
+12.99
+10
+Hardcover
+175.58
+16
+Paperback
+12.73
+145
+History
+The Civil War: A Narrative
+Shelby Foote
+First Vintage Books
+4
+Kindle
+14.99
+16
+Hardcover
+60.00
+47
+Paperback
+18.67
+186
+Audible
+41.95
+191
+History
+History of the Decline and Fall of the Roman Empire
+Edward Gibbon
+Penguin Classics
+2
+Hardcover
+28.95
+4
+Paperback
+17.33
+50
+History
+The Devil in the White City
+Erik Larson
+First Vintage Books
+3
+Kindle
+11.99
+47
+Hardcover
+17.09
+150
+Paperback
+9.39
+912
+History
+The Face of Battle
+John Keegan
+Penguin Books
+3
+Kindle
+13.99
+33
+Hardcover
+6.70
+17
+Paperback
+11.64
+227
+History
+The Making of the English Working Class
+E. P. Thompson
+First Vintage
+3
+Kindle
+9.99
+20
+Hardcover
+204.34
+15
+Paperback
+17.33
+45
+History
+The Rise and Fall of the Third Reich
+William L. Shirer
+Rosetta Books
+3
+Hardcover
+13.09
+29
+Paperback
+8.96
+20
+Audible
+35.95
+70
+Mystery
+Anatomy of a Murder
+Robert Traver
+Harper & Brown
+2
+Kindle
+9.99
+50
+Paperback
+16.27
+40
+Mystery
+And Then There Were None
+Agatha Christie
+Harper Collins
+3
+Kindle
+7.99
+100
+Hardcover
+13.74
+100
+Paperback
+9.64
+243
+Mystery
+Rebecca
+Daphne du Maurier
+Harper Collins
+2
+Kindle
+9.99
+30
+Paperback
+10.68
+100
+Mystery
+The Big Sleep
+Raymond Chandler
+Vintage Crime
+2
+Kindle
+3.00
+40
+Paperback
+11.46
+300
+Mystery
+The Moonstone
+Wilkie Collins
+Penguin Classics
+4
+Kindle
+0.00
+100
+Hardcover
+6.30
+200
+Paperback
+6.59
+40
+Audible
+4.95
+30
+Mystery
+The Spy Who Came in From the Cold
+John le Carre
+Penguin Books
+4
+Kindle
+11.99
+100
+Hardcover
+17.92
+100
+Paperback
+11.10
+400
+Audible
+0.00
+100
+Mystery
+Presumed Innocent
+Scott Turow
+Warner Books Edition
+2
+Kindle
+7.99
+30
+Paperback
+13.23
+100
+Mystery
+The Daughter of Time
+Josephine They
+Simon & Schuster
+3
+Kindle
+13.99
+20
+Hardcover
+24.99
+20
+Paperback
+7.95
+100
+Mystery
+Tales of Mystery & Imagination
+Edgar Allan Poe
+Pook Press
+3
+Kindle
+7.99
+20
+Hardcover
+35.99
+20
+Paperback
+22.99
+30
+Mystery
+The Maltese Falcon
+Dashiell Hammett
+Alfred A. Knopf
+4
+Kindle
+9.99
+100
+Hardcover
+24.95
+40
+Paperback
+12.65
+40
+Audible
+0.00
+100
+Romance
+Jane Eyre
+Charlotte Bronte
+Black & White Classics
+1
+Paperback
+10.17
+34
+Romance
+Lord of Scoundrels
+Loretta Chase
+Avon Romantic Treasure
+1
+Paperback
+6.48
+12
+Romance
+Flowers from the Storm
+Laura Kinsale
+First Avon Books
+3
+Kindle
+1.99
+9
+Hardcover
+17.21
+11
+Paperback
+5.20
+10
+Romance
+Outlander
+Diana Gabaldon
+A Delta Book
+3
+Kindle
+3.99
+59
+Hardcover
+19.77
+23
+Paperback
+10.37
+195
+Romance
+Love Story
+Erich Segal
+Avon Books
+3
+Kindle
+6.49
+47
+Hardcover
+13.85
+10
+Paperback
+9.50
+48
+Romance
+A Kingdom of Dreams
+Judith McNaught
+Pocket Books
+3
+Kindle
+7.99
+14
+Hardcover
+50.90
+8
+Paperback
+3.42
+23
+Romance
+Redeeming Love
+Francine Rivers
+Multnomah Books
+3
+Kindle
+9.99
+45
+Hardcover
+14.49
+53
+Paperback
+13.21
+342
+Romance
+It Had to Be You
+Susan Elizabeth Phillips
+Chicago Stars
+3
+Kindle
+6.99
+14
+Hardcover
+15.72
+5
+Paperback
+11.35
+34
+Satire
+Slaughterhouse Five
+Kurt Vonnegut
+Rosetta Books
+2
+Paperback
+9.21
+166
+Audible
+16.95
+192
+Satire
+Catch-22
+Joseph Keller
+Simon & Schuster
+3
+Kindle
+11.99
+104
+Hardcover
+12.24
+44
+Paperback
+14.81
+164
+Satire
+Cat’s Cradle
+Kurt Vonnegut
+Dial Press Trade
+3
+Kindle
+8.99
+88
+Hardcover
+21.54
+15
+Paperback
+12.08
+217
+Satire
+Gulliver’s Travels
+Jonathan Swift
+Dover Thrift Editions
+3
+Hardcover
+4.40
+44
+Paperback
+3.95
+100
+Audible
+3.95
+100
+Satire
+Candide
+Voltaire
+Millennium Publications
+1
+Paperback
+6.99
+30
+Satire
+Fight Club
+Chuck Palahniuk
+W. W. Norton & Co.
+3
+Kindle
+7.53
+31
+Hardcover
+21.45
+31
+Paperback
+7.93
+64
+Satire
+A Modest Proposal
+Jonathan Swift
+Dover Thrift Editions
+2
+Kindle
+0.99
+6
+Paperback
+2.25
+154
+Satire
+American Psycho
+Bret Easton Ellis
+Vintage Contemporaries
+3
+Kindle
+11.99
+35
+Hardcover
+104.77
+21
+Paperback
+10.87
+264
+Satire
+A Clockwork Orange
+Anthony Burgess
+W. W. Norton & Co.
+3
+Kindle
+8.35
+75
+Hardcover
+18.32
+34
+Paperback
+8.79
+415
+Satire
+The Master and Margarita
+Mikhail Bulgakov
+Penguin Classics
+2
+Kindle
+11.99
+7
+Paperback
+12.03
+22
+Satire
+The Screwtape Letters
+C. S. Lewis
+Harper Collins
+3
+Kindle
+7.99
+112
+Hardcover
+13.69
+65
+Paperback
+10.19
+382
+Satire
+Northanger Abbey
+Jane Austen
+Penguin Classics
+4
+Kindle
+0.99
+40
+Hardcover
+9.95
+76
+Paperback
+6.55
+55
+Audible
+1.95
+36
+Satire
+Decline and Fall
+Evelyn Waugh
+Back Bay Books
+3
+Kindle
+9.99
+61
+Hardcover
+29.99
+14
+Paperback
+11.65
+19
+Satire
+God Bless You, Mr. Rosewater
+Kurt Vonnegut
+Dell Publishing
+3
+Kindle
+7.99
+54
+Hardcover
+11.89
+17
+Paperback
+10
+98
+Satire
+Cold Comfort Farm
+Stella Gibbons
+Penguin Classics
+3
+Kindle
+2.99
+51
+Hardcover
+21.54
+12
+Paperback
+12.20
+72
+Science Fiction
+Starship Troopers
+Robert A. Heinlein
+Penguin Random House
+2
+Kindle
+9.99
+50
+Paperback
+8.81
+200
+Science Fiction
+Stranger in a Strange Land
+Robert A. Heinlein
+An Ace Book
+4
+Kindle
+9.99
+300
+Hardcover
+22.83
+40
+Paperback
+13.83
+200
+Audible
+0.00
+100
+Science Fiction
+The Time Machine
+H. G. Wells
+Dover Thrift Editions
+4
+Kindle
+0.00
+100
+Hardcover
+6.95
+200
+Paperback
+2.10
+50
+Audible
+0.95
+40
+Science Fiction
+Childhood's End
+Arthur C. Clarke
+A Del Ray Book
+3
+Kindle
+7.26
+100
+Paperback
+8.48
+100
+Audible
+0.00
+100
+Science Fiction
+Ringworld
+Larry Niven
+A Del Ray Book
+2
+Kindle
+5.99
+100
+Paperback
+7.36
+100
+Science Fiction
+Hyperion
+Dan Simmons
+A Bantam Spectra Book
+2
+Kindle
+4.99
+100
+Paperback
+25.00
+4
+Science Fiction
+Do Androids Dream of Electric Sheep?
+Philip K. Dick
+Phoenix Fiction
+1
+Paperback
+7.99
+40
+Science Fiction
+The Forever War
+Joe Haldeman
+Thomas Dunne Books
+2
+Kindle
+7.99
+30
+Paperback
+11.17
+200
+Science Fiction
+Fahrenheit 451
+Ray Bradbury
+Simon & Schuster
+3
+Kindle
+11.99
+20
+Hardcover
+14.88
+20
+Paperback
+7.25
+200
+Science Fiction
+Neuromancer
+William Gibson
+An Ace Book
+4
+Kindle
+8.99
+10
+Hardcover
+18.84
+20
+Paperback
+13.99
+200
+Audible
+0.00
+100
+Science Fiction
+Dune
+Frank Herbert
+An Ace Book
+3
+Kindle
+9.99
+100
+Paperback
+13.23
+200
+Audible
+0.00
+50
+Science Fiction
+Ender's Game
+Orson Scott Card
+A Tor Book
+3
+Kindle
+0.00
+100
+Paperback
+8.06
+200
+Audible
+0.00
+100
+Travel
+The Great Railway Bazaar
+Paul Theroux
+Houghton Mifflin Harcourt Publishing Co.
+3
+Kindle
+9.99
+30
+Hardcover
+34.93
+11
+Paperback
+11.07
+87
+Travel
+The Road to Oxiana
+Robert Byron
+Oxford University Press
+1
+Paperback
+15.95
+39
+Travel
+Into the Wild
+Jon Krakauer
+Random House
+2
+Paperback
+11.49
+40
+Kindle
+11.99
+10
+Travel
+West with the Night
+Beryl Markham
+North Point Press
+4
+Kindle
+8.54
+39
+Hardcover
+2.29
+45
+Paperback
+13.22
+111
+Audible
+0.00
+10
+Travel
+A Short Walk in the Hindu Kush
+Eric Newby
+Harper Press
+3
+Kindle
+9.99
+24
+Hardcover
+54.79
+18
+Paperback
+6.42
+17
+Travel
+The Innocents Abroad
+Mark Twain
+Wordsworth Classics
+3
+Hardcover
+24.95
+10
+Paperback
+5.38
+200
+Audible
+15.95
+15
+Travel
+In a Sunburned Country
+Bill Bryson
+First Broadway Books
+3
+Kindle
+11.99
+36
+Hardcover
+9.23
+27
+Paperback
+13.79
+463
+Travel
+Arabian Sands
+Wilfred Thesiger
+Penguin Classics
+2
+Paperback
+11.33
+240
+Hardcover
+40.00
+13
+Travel
+Roughing It
+Mark Twain
+Signet Classics
+2
+Paperback
+6.25
+414
+Kindle
+0.00
+10
+Travel
+Notes from a Small Island
+Bill Bryson
+First Avon
+4
+Kindle
+9.99
+48
+Hardcover
+9.97
+18
+Paperback
+10.31
+322
+Audible
+23.95
+10
+Travel
+Dark Star Safari
+Paul Theroux
+First Mariner Books
+4
+Kindle
+10.99
+14
+Hardcover
+5.75
+17
+Paperback
+12.04
+212
+Audible
+40.95
+192
+Travel
+Blue Highways
+William Least Heat-Moon
+First Back Bay
+3
+Kindle
+9.99
+33
+Hardcover
+14.95
+19
+Paperback
+11.18
+167
+Westerns
+Blood Meridian
+Cormac McCarthy
+First Vintage International Edition
+3
+Kindle
+11.99
+26
+Hardcover
+16.29
+43
+Paperback
+10.84
+136
+Westerns
+The Assassination of Jesse James by the Coward Robert Ford
+Ron Hansen
+Harper Collins
+3
+Kindle
+9.99
+26
+Hardcover
+9.70
+28
+Paperback
+11.18
+116
+Westerns
+Lonesome Dove
+Larry McMurtry
+Simon & Schuster
+3
+Kindle
+9.99
+5
+Hardcover
+30.11
+29
+Paperback
+11.31
+68
+Westerns
+The Hell Bent Kid
+Charles O. Locke
+Early Bird Books
+3
+Kindle
+1.99
+8
+Hardcover
+38.01
+1
+Paperback
+33.11
+1
+Westerns
+Hondo
+Louis L’Amour
+Bantam Books
+2
+Kindle
+5.99
+47
+Paperback
+35.03
+2
+Westerns
+Bury My Heart at Wounded Knee
+Dee Brown
+Owl Books
+3
+Kindle
+9.94
+77
+Hardcover
+38.98
+13
+Paperback
+10.46
+75
+Westerns
+Little House on the Prairie
+Laura Ingalls Wilder
+Little House Heritage Trust
+3
+Kindle
+6.99
+89
+Hardcover
+12.00
+35
+Paperback
+6.98
+405
+Westerns
+The Sisters Brothers
+Patrick deWitt
+First Ecco
+3
+Kindle
+6.99
+18
+Hardcover
+21.21
+64
+Paperback
+9.37
+189
+Westerns
+My Antonia
+Willa Cather
+Dover Thrift Edition
+2
+Hardcover
+13.99
+1
+Paperback
+3.20
+239
+Westerns
+Riders of the Purple Sage
+Zane Grey
+Dover Thrift Editions
+2
+Hardcover
+22.87
+12
+Paperback
+4.50
+45
+Westerns
+True Grit
+Charles Portis
+Overlook Press
+3
+Kindle
+6.76
+65
+Hardcover
+29.95
+20
+Paperback
+9.49
+159
+Westerns
+The Son
+Phillip Meyer
+First Ecco
+3
+Kindle
+1.99
+14
+Hardcover
+23.39
+254
+Paperback
+10.62
+123
+25
+find book "Great Expectations"
+find book "Of Mice and Men"
+find book "Into the Wild"
+find book "The Prince"
+find book "Homage to Catalonia"
+find genre "Classics"
+find genre "History"
+find genre "Travel"
+find genre "Physics"
+range "Classics" "Ga" "Gz"
+range "Classics" "A" "B"
+range "Mystery" "A" "P"
+range "Health" "Za" "Zz"
+price "Great Expectations"
+price "To Kill a Mockingbird"
+price "A Short Walk in the Hindu Kush"
+price "Lord of the Flies"
+price "Little House on the Prairie"
+price "Introduction to Algorithms"
+sell book "Science Fiction" "The Time Machine" Hardcover
+sell book "Science Fiction" "Stranger in a Strange Land" Kindle
+sell book "Classics" "Little Women" Kindle
+buy book "Mystery" "And Then There Were None" "Agatha Christie" "Harper Collins" Kindle 8.99 50
+buy book "Physics" "The Principia" "Isaac Newton" "University of California Press" Paperback 14.99 20
+buy book "Classics" "War and Peace" "Leo Tolstoy" "Vintage Classics" Paperback 12.19 30
